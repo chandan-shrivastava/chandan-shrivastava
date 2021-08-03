@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Chandan Shrivastava
-- 🌱 I’m currently learning JavaScript, Python, Assembly, C++.
+- 🌱 I’m currently learning ReactJS, Django, NodeJS, MySQL.
 - 📫 You can reach me through [Facebook](http://facebook.com/fb.chandans) or [Instagram](http://instagram.com/ig_chandans/)
-<!--- - 💞️ I’m looking to collaborate on open source development.-->
-<!--- - 👀 I’m interested in Web Development / Projects.-->
+- My Personal Portfolio: http://chandan-shrivastava.github.io
