@@ -14,20 +14,20 @@
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 <p align="center">
- <a href="https://github.com/chandan-shrivastava/cshell">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=cshell&theme=tokyonight" />
-</a>
   <a href="https://github.com/chandan-shrivastava/TVRQC-BOT">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=TVRQC-BOT&theme=tokyonight" />
-</a>
-  <a href="https://github.com/chandan-shrivastava/Directory-Manager">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Directory-Manager&theme=tokyonight" />
 </a>
 <a href="https://github.com/jeopardy1234/Hospital-Management">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=jeopardy1234&repo=Hospital-Management&theme=tokyonight" />
 </a>
-<a href="https://github.com/chandan-shrivastava/tweaked-xv6">
+<a href="https://github.com/chandan-shrivastava/cshell">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=cshell&theme=tokyonight" />
+</a>
+  <a href="https://github.com/chandan-shrivastava/tweaked-xv6">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=tweaked-xv6&theme=tokyonight" />
+</a>
+  <a href="https://github.com/chandan-shrivastava/Directory-Manager">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Directory-Manager&theme=tokyonight" />
 </a>
 </p>
 <br />
