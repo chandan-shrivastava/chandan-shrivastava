@@ -4,8 +4,8 @@
 </p>
 <p align="center">
 <a href="mailto:chandan.shrivastava@students.iiit.ac.in"><img src="https://img.shields.io/badge/Mail-2962FF?style=for-the-badge&logo=Gmail&logoColor=white alt="Mail" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/chandan-shrivastava/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=Facebook&logoColor=white alt="Facebook" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/chandan-shrivastava/"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
+<a href="https://www.facebook.com/fb.chandans/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=Facebook&logoColor=white alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/ig_chandans/"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/chandan-shrivastava/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=LinkedIn&logoColor=white alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
