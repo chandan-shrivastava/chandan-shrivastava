@@ -11,7 +11,7 @@
 <br />
 <p>Enthusiastic Software Developer since 2020 currently learning Flutter, Java, Kotlin, ReactJS, Django, NodeJS, MongoDB, ExpressJS and AngularJS.</p>
 <br />
-<h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">Projects that I worked on!  💻</h2>
 <br />
 <p align="center">
   <a href="https://github.com/chandan-shrivastava/TVRQC-BOT">
@@ -31,6 +31,8 @@
 </a>
 </p>
 <br />
+
+---
 
 <h3 align="center"> Languages and Tools</h3>
 </p>
