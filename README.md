@@ -3,17 +3,20 @@
   <h1 align="center"><b>Hi there, I'm Chandan <img src="https://c.tenor.com/9jn_TYgvSyQAAAAM/pikachu-pokemon.gif" alt="" width="60" height="50"></h1>
 </p>
 <p align="center">
-<a href="mailto:chandan.shrivastava@students.iiit.ac.in"><img src="https://img.shields.io/badge/Mail-2962FF?style=for-the-badge&logo=Gmail&logoColor=white alt="Mail" /></a>&nbsp;
-<a href="https://www.facebook.com/fb.chandans/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=Facebook&logoColor=white alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/ig_chandans/"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/chandan-shrivastava/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=LinkedIn&logoColor=white alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:chandan.shrivastava@students.iiit.ac.in"><img src="https://img.shields.io/badge/Mail-2962FF?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail" /></a>&nbsp;
+<a href="https://www.facebook.com/fb.chandans/"><img src="https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/ig_chandans/"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/chandan-shrivastava/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
-<p>Enthusiastic Software Developer since 2020 currently learning Flutter, Java, Kotlin, ReactJS, Django, NodeJS, MongoDB, ExpressJS and AngularJS.</p>
+<p>Enthusiastic Software Developer since 2020 currently learning Flutter, Java, Kotlin, Django and AngularJS.</p>
 <br />
 <h2 align="center">Projects that I worked on!  💻</h2>
 <br />
 <p align="center">
+ <a href="https://github.com/chandan-shrivastava/Canteen-Portal">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Canteen-Portal&theme=tokyonight" />
+</a>
   <a href="https://github.com/chandan-shrivastava/TVRQC-BOT">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=TVRQC-BOT&theme=tokyonight" />
 </a>
