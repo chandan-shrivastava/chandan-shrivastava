@@ -9,14 +9,11 @@
 <a href="https://www.linkedin.com/in/chandan-shrivastava/"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
-<p>Enthusiastic Software Developer since 2020 currently learning Flutter, Java, Kotlin, Django and AngularJS.</p>
+<p>Enthusiastic Software Developer since 2020 currently learning Java, Vue.JS, Kotlin, Django and AngularJS.</p>
 <br />
 <h2 align="center">Projects that I worked on!  💻</h2>
 <br />
 <p align="center">
- <a href="https://github.com/chandan-shrivastava/Canteen-Portal">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Canteen-Portal&theme=tokyonight" />
-</a>
   <a href="https://github.com/chandan-shrivastava/TVRQC-BOT">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=TVRQC-BOT&theme=tokyonight" />
 </a>
@@ -28,6 +25,9 @@
 </a>
   <a href="https://github.com/chandan-shrivastava/tweaked-xv6">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=tweaked-xv6&theme=tokyonight" />
+</a>
+ <a href="https://github.com/chandan-shrivastava/Canteen-Portal">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Canteen-Portal&theme=tokyonight" />
 </a>
   <a href="https://github.com/chandan-shrivastava/Directory-Manager">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Directory-Manager&theme=tokyonight" />
@@ -52,7 +52,11 @@
 <a href="https://www.github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
+<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
+ <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
+ <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
    </p>
 <br />
 
