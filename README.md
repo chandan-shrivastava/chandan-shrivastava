@@ -29,7 +29,10 @@
  <a href="https://github.com/chandan-shrivastava/Canteen-Portal">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Canteen-Portal&theme=tokyonight" />
 </a>
-  <a href="https://github.com/chandan-shrivastava/Directory-Manager">
+  <a href="https://github.com/chandan-shrivastava/Clash-of-Clans-Clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Clash-of-Clans-Clone&theme=tokyonight" />
+</a>
+<a href="https://github.com/chandan-shrivastava/Directory-Manager">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Directory-Manager&theme=tokyonight" />
 </a>
 </p>
