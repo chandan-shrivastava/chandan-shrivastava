@@ -17,8 +17,8 @@
   <a href="https://github.com/chandan-shrivastava/TVRQC-BOT">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=TVRQC-BOT&theme=tokyonight" />
 </a>
-<a href="https://github.com/jeopardy1234/Hospital-Management">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=jeopardy1234&repo=Hospital-Management&theme=tokyonight" />
+<a href="https://github.com/chandan-shrivastava/Hospital-Management">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=Hospital-Management&theme=tokyonight" />
 </a>
 <a href="https://github.com/chandan-shrivastava/cshell">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-shrivastava&repo=cshell&theme=tokyonight" />
