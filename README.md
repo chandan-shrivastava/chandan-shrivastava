@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Shrivastava</h1>
-<h3 align="center">Enthusiastic Software Developer since 2020</h3>
+<h3 align="center">Enthusiastic Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-shrivastava&label=Profile%20views&color=ff0000&style=plastic" alt="chandan-shrivastava" /> </p>
 
