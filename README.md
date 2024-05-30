@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Vue.JS, Kotlin, Django and AngularJS**
 
-- 👯 I’m looking to collaborate on **React, Node and React Native**
+- 👯 I’m looking to collaborate on **React, Next, Nest, Node and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandan-shrivastava/](https://github.com/chandan-shrivastava/)
 
